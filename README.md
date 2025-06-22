@@ -42,7 +42,7 @@
 
 ### $ cat /home/charmcx/about.txt
 
-```bash
+bash
 > System Information:
 ┌─────────────────────────────────────┐
 │ [+] Handle: charmcx                 │
@@ -78,4 +78,4 @@
 <div align="center"> <pre> ┌──(charmcx㉿github)-[~] └─$ echo "Remember: Hacking is not a crime, it's an art form." Remember: Hacking is not a crime, it's an art form.
 ┌──(charmcx㉿github)-[~] └─$ exit </pre> <sub>// Stay curious. Stay ethical. Stay anonymous. //</sub>
 
-</div> ```
+</div>
